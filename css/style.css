@@ -6,10 +6,13 @@ body {
 /* header */
 
 .header-title{
-   color : rgb(18, 139, 209);
+  
   text-align: center;
   font-weight: 700;
   margin-top: 30px;
+}
+.hd-title{
+  color : rgb(18, 139, 209);
 }
 /* title */
 .titles{
