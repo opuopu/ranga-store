@@ -25,6 +25,8 @@ body {
 /* all product */
  .single-product{
    background-color:  whitesmoke;
+  min-height: 450px;
+   
    margin: 15px;
    padding: 30px;
    border-radius: 10px;
@@ -33,7 +35,7 @@ body {
  /* img */
 
  .product-image{
-   width: 300px;
+  
    margin: 8px;
  }
 
